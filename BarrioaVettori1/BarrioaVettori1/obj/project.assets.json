@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Documents\\GitHub\\3di-2022-esercizivettori-marialuisabarrios\\BarriosPasswordGenetorApp\\BarriosPasswordGenetorApp\\BarriosPasswordGenetorApp.csproj",
-      "projectName": "BarriosPasswordGenetorApp",
-      "projectPath": "C:\\Users\\Utente\\Documents\\GitHub\\3di-2022-esercizivettori-marialuisabarrios\\BarriosPasswordGenetorApp\\BarriosPasswordGenetorApp\\BarriosPasswordGenetorApp.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Documents\\GitHub\\3di-2022-esercizivettori-marialuisabarrios\\BarrioaVettori1\\BarrioaVettori1\\BarrioaVettori1.csproj",
+      "projectName": "BarrioaVettori1",
+      "projectPath": "C:\\Users\\Utente\\Documents\\GitHub\\3di-2022-esercizivettori-marialuisabarrios\\BarrioaVettori1\\BarrioaVettori1\\BarrioaVettori1.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Documents\\GitHub\\3di-2022-esercizivettori-marialuisabarrios\\BarriosPasswordGenetorApp\\BarriosPasswordGenetorApp\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Documents\\GitHub\\3di-2022-esercizivettori-marialuisabarrios\\BarrioaVettori1\\BarrioaVettori1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",

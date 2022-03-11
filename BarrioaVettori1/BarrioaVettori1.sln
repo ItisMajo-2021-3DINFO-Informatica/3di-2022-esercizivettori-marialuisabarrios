@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarrioaVettori1", "BarrioaVettori1\BarrioaVettori1.csproj", "{77447C64-88AF-4BA3-9E80-735A04C89406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77447C64-88AF-4BA3-9E80-735A04C89406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77447C64-88AF-4BA3-9E80-735A04C89406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77447C64-88AF-4BA3-9E80-735A04C89406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77447C64-88AF-4BA3-9E80-735A04C89406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CCEC677-9F23-436D-B4F0-AA64FF60E5C5}
+	EndGlobalSection
+EndGlobal
