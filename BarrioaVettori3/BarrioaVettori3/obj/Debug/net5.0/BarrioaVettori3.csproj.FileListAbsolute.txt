@@ -1,0 +1,15 @@
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\bin\Debug\net5.0\BarrioaVettori3.exe
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\bin\Debug\net5.0\BarrioaVettori3.deps.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\bin\Debug\net5.0\BarrioaVettori3.runtimeconfig.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\bin\Debug\net5.0\BarrioaVettori3.runtimeconfig.dev.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\bin\Debug\net5.0\BarrioaVettori3.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\bin\Debug\net5.0\ref\BarrioaVettori3.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\bin\Debug\net5.0\BarrioaVettori3.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\obj\Debug\net5.0\BarrioaVettori3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\obj\Debug\net5.0\BarrioaVettori3.AssemblyInfoInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\obj\Debug\net5.0\BarrioaVettori3.AssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\obj\Debug\net5.0\BarrioaVettori3.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\obj\Debug\net5.0\BarrioaVettori3.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\obj\Debug\net5.0\ref\BarrioaVettori3.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\obj\Debug\net5.0\BarrioaVettori3.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-marialuisabarrios\BarrioaVettori3\BarrioaVettori3\obj\Debug\net5.0\BarrioaVettori3.genruntimeconfig.cache
